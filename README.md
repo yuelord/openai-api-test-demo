@@ -8,9 +8,8 @@
 
 2、把自己的 api key 放到 win10 的环境变量中，减少 api key 泄密的风险。设置好 openai api key 后，再启动开发工具（Pycharm、vscode等），要不然可能会检测不在 OPENAI_API_KEY。详细设置教程找搜索引擎。
 
-![openai_api_key](images\openai_api_key.png)
-
-![openai_api_key_02](images\openai_api_key_02.png)
+<img src="images\openai_api_key.png" alt="win10中，添加openai_api_key环境变量">
+<img src="images\openai_api_key_02.png" alt="win10中，"代码中，怎么引用配置的openai_api_key">
 
 3、安装对应的Python openai 库依赖：
 
